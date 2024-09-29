@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![amybok's Stats](https://github-readme-stats.vercel.app/api?username=amybok&show_icons=true&hide_border=true&count_private=true&border_radius=30&title_color=c4a7e7&text_color=31748f&bg_color=1f1d2e&icon_color=9ccfd8)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amybok&show_icons=true&locale=en&layout=compact&theme=omni&border_radius=30" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amybok&show_icons=true&locale=en&layout=compact&border_radius=30&title_color=eb6f92&text_color=31748f&bg_color=1f1d2e" alt="ovi" />
 
 ## Languages & Frameworks & Skills
 #### Frontend
