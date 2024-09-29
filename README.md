@@ -1,5 +1,5 @@
 ### Hi there 👋
-![amybok's Stats](https://github-readme-stats.vercel.app/api?username=amybok&show_icons=true&hide_border=true&count_private=true&border_radius=30&text_color=#c4a7e7)
+![amybok's Stats](https://github-readme-stats.vercel.app/api?username=amybok&show_icons=true&hide_border=true&count_private=true&border_radius=30&text_color=c4a7e7)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amybok&show_icons=true&locale=en&layout=compact&theme=omni&border_radius=30" alt="ovi" />
 
