@@ -1,5 +1,5 @@
 ### Hi there 👋
-![amybok's Stats](https://github-readme-stats.vercel.app/api?username=amybok&show_icons=true&hide_border=false&count_private=true&border_radius=30&title_color=000000&text_color=000000&icon_color=000000&bg_color=45,699699,A8C3C9,EAEBCE,F7F0F1,E6CCE3)
+![amybok's Stats](https://github-readme-stats.vercel.app/api?username=amybok&show_icons=true&hide_border=false&count_private=true&border_radius=30&title_color=000001&text_color=000000&icon_color=000000&bg_color=45,699699,A8C3C9,EAEBCE,F7F0F1,E6CCE3)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amybok&show_icons=true&locale=en&layout=compact&border_radius=30&title_color=000000&text_color=000000&bg_color=45,699699,A8C3C9,EAEBCE,F7F0F1,E6CCE3&langs_count=8" alt="rose_pine" />
 
