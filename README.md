@@ -3,6 +3,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amybok&show_icons=true&locale=en&layout=compact&theme=merko&border_radius=30&title_color=19191a&text_color=19191a&bg_color=45,699699,A8C3C9,EAEBCE,F7F0F1,E6CCE3&langs_count=8&hide=jupyter%20notebook" />
 
+### About Me 🚀
+Hi, I'm Amy Ly, a Software Engineer with a passion for mobile development, AI-driven solutions, and full-stack engineering. With a background in Artificial Intelligence (Master of IT, University of Melbourne) and Finance, I bring a unique blend of technical expertise and problem-solving skills.
+
+🔹 Mobile & Wearables: React Native, TensorFlow.js, Unity (C#)
+🔹 AI & Cloud: Machine Learning, Firebase, Node.js, Express.js
+🔹 Hackathons & Startups: Agile development, rapid prototyping
+
+Excited about building impactful, scalable, and accessible applications, especially in health tech and AI! Let's connect and collaborate! 🚀
+
 ## Languages & Frameworks & Skills
 #### Frontend
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
