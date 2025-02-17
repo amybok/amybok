@@ -1,6 +1,6 @@
 ### Hi there 👋 Xin chào 👋 
 ### About Me ☕
-Hi, I'm Amy Ly, a Software Engineer with a passion for mobile development, AI-driven solutions, and full-stack engineering. With a background in Artificial Intelligence (Master of IT, University of Melbourne) and Finance, I bring a unique blend of technical expertise and problem-solving skills.
+Hi, I'm Amy Ly, a Software Engineer with a passion for mobile development, AI-driven solutions, and full-stack engineering. With a background in Artificial Intelligence (Master of IT, University of Melbourne) and professional services (Accounting & Finance), I bring a unique blend of technical expertise and problem-solving skills.
 
 Excited about building impactful, scalable, and accessible applications, especially in health tech and AI! Let's connect and collaborate! :bread:
 
