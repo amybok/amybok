@@ -2,7 +2,7 @@
 ### About Me ☕
 Hi, I'm Amy Ly, a Software Engineer with a passion for mobile development, AI-driven solutions, and full-stack engineering. With a background in Artificial Intelligence (Master of IT, University of Melbourne) and professional services (Accounting & Finance), I bring a unique blend of technical expertise and problem-solving skills.
 
-Excited about building impactful, scalable, and accessible applications, especially in health tech and AI! Let's connect and collaborate! :bread:
+Excited about building impactful, scalable, and accessible applications, especially in AI! Let's connect and collaborate! :bread:
 
 ### Some fun stats
 ![amybok's Stats](https://github-readme-stats.vercel.app/api?username=amybok&show_icons=true&hide_border=false&count_private=true&border_radius=30&title_color=19191a&text_color=19191a&icon_color=19191a&bg_color=45,699699,A8C3C9,EAEBCE,F7F0F1,E6CCE3)
