@@ -5,7 +5,6 @@ Hi, I'm Amy Ly, a Software Engineer with a passion for mobile development, AI-dr
 Excited about building impactful, scalable, and accessible applications, especially in AI! Let's connect and collaborate! :bread:
 
 ### Some fun stats
-![](https://komarev.com/ghpvc/?username=amybok)
 
 ![amybok's Stats](https://github-readme-stats.vercel.app/api?username=amybok&show_icons=true&hide_border=false&count_private=true&border_radius=30&title_color=19191a&text_color=19191a&icon_color=19191a&bg_color=45,699699,A8C3C9,EAEBCE,F7F0F1,E6CCE3)
 
