@@ -1,4 +1,7 @@
 ### Hi there 👋 Xin chào 👋 
+### Currently working on
+Learning Go
+
 ### About Me ☕
 Hi, I'm Amy Ly, a Software Engineer with a passion for mobile development, AI-driven solutions, and full-stack engineering. With a background in Artificial Intelligence (Master of IT, University of Melbourne) and professional services (Accounting & Finance), I bring a unique blend of technical expertise and problem-solving skills.
 
